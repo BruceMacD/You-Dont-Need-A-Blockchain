@@ -1,5 +1,6 @@
 # You Don't Need a Blockchain
 [You Don't Need a Blockchain](https://brucemacd.github.io/You-Dont-Need-A-Blockchain/)
+
 This project was the #3 post on YCombinator's HackerNews in October 2018: https://news.ycombinator.com/item?id=18379513
 
 ## Overview
